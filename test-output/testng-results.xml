@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82728" started-at="2018-06-12T11:45:28Z" finished-at="2018-06-12T11:46:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82728" started-at="2018-06-12T11:45:28Z" finished-at="2018-06-12T11:46:50Z">
+      <class name="com.sdp.admin.ActivityLog">
+        <test-method status="PASS" signature="searchByUsername()[pri:0, instance:com.sdp.admin.ActivityLog@62ee68d8]" name="searchByUsername" duration-ms="61351" started-at="2018-06-12T17:15:28Z" finished-at="2018-06-12T17:16:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByUsername -->
+        <test-method status="PASS" signature="searchByActivity()[pri:1, instance:com.sdp.admin.ActivityLog@62ee68d8]" name="searchByActivity" duration-ms="3938" started-at="2018-06-12T17:16:29Z" finished-at="2018-06-12T17:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByActivity -->
+        <test-method status="PASS" signature="searchByFromDate()[pri:2, instance:com.sdp.admin.ActivityLog@62ee68d8]" name="searchByFromDate" duration-ms="4410" started-at="2018-06-12T17:16:33Z" finished-at="2018-06-12T17:16:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByFromDate -->
+        <test-method status="PASS" signature="searchByToDate()[pri:3, instance:com.sdp.admin.ActivityLog@62ee68d8]" name="searchByToDate" duration-ms="4257" started-at="2018-06-12T17:16:37Z" finished-at="2018-06-12T17:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByToDate -->
+        <test-method status="PASS" signature="searchByTodayDate()[pri:4, instance:com.sdp.admin.ActivityLog@62ee68d8]" name="searchByTodayDate" duration-ms="8725" started-at="2018-06-12T17:16:42Z" finished-at="2018-06-12T17:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByTodayDate -->
+      </class> <!-- com.sdp.admin.ActivityLog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
